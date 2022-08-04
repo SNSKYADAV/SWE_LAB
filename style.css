@@ -1,0 +1,133 @@
+body{
+    margin: 0;
+    background-image:url("Gradient_background_image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#toolbar{
+    background-color: white;
+    width:100%;
+}
+
+.serviceContainer{
+    padding: 6%;
+}
+
+.serviceBox{
+    border-radius: 30px;
+    height:300px;
+    width:300px;
+    overflow: hidden;
+    object-fit: cover;
+    border-radius: 30px;
+}
+
+#plumbing{
+    padding: 25px;
+    background-image: url("https://media.istockphoto.com/photos/plumber-fixing-white-sink-pipe-with-adjustable-wrench-picture-id1150199946?k=20&m=1150199946&s=612x612&w=0&h=bMUbn77Hc6qNc1RJNKRe-wMPCQArw_2H5zDYeXvypcg=");
+    background-position: center;
+    float: left;
+}
+
+#cleaning{
+    padding: 25px;
+    background-image: url("https://blog.resortchoice.com/wp-content/uploads/2021/02/cleaning-image.jpg");
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+    margin-left: 10%;
+    margin-top: -184px;
+}
+
+#babysitting{
+    padding: 25px;
+    background-image: url("https://media.istockphoto.com/photos/dedication-caucasian-little-girl-spending-time-with-african-american-picture-id1253128409?k=20&m=1253128409&s=612x612&w=0&h=-GOs_CXOmmm0bJBMIMhf-ItSOc7QDaIaobL-6hOuMI4=");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+    margin-left: 72%;
+    margin-top: -369px;
+}
+
+#laundry{
+    padding: 25px;
+    background-image: url("https://img.freepik.com/premium-photo/laundry-basket-with-dirty-clothes-with-washing-drying-machines-background_130111-213.jpg?w=2000");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+    margin-left: 0%;
+    margin-top: -75px;
+}
+
+#chefCook{
+    padding: 25px;
+    background-image: url("https://media.istockphoto.com/photos/last-straw-picture-id516329534?k=20&m=516329534&s=612x612&w=0&h=th8WZ3t4sM5T2eixJ4W0DwMO3ozefvI49CB8GvUvC6Y=");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+    margin-left: 10%;
+    margin-top: -257px;
+}
+
+#electrician{
+    padding: 25px;
+    background-image: url("https://www.uei.edu/wp-content/uploads/sites/5/2020/05/Top-5-Benefits-of-Being-an-Electrician-UEI-College.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+    margin-left: 72%;
+    margin-top: -440px;
+}
+
+.titleContainer{
+    background-color: white;
+    margin-top: 200px;
+    margin-left: -9%;
+    height: 50px;
+    border-bottom-right-radius: 15px;
+    border-top-right-radius: 15px;
+    border-color: blueviolet;
+    border-style:inset;
+}
+
+.title{
+    margin-left: 9%;
+    overflow-x: visible;
+    font-size: 60px;
+    color: aquamarine;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow: 2px 2px 0px black;
+}
+
+.bookNowButton{
+    margin-left: 80%;
+    margin-top: 1%;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-color: blueviolet;
+    color: white;
+    background-color: lightsalmon;
+    width: 100px;
+}
+
+.footer{
+    background-color: white;
+    padding: 20px;
+}
+
+#dashboardFooterButtons{
+    float: right;
+    align-self: center;
+    margin-top: -20px;
+}
+
+.footerButtons{
+    background-color: lightcyan;
+}
